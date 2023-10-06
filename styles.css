@@ -209,7 +209,7 @@
     padding: 1rem;
   }
   .profile-icons > img{
-    height: 2.5rem;
+    height: 4rem;
   }
   .profile-icons > img:hover{
     transform: scale(120%);
