@@ -182,7 +182,7 @@
       grid-row: 1/1;
     }
     .about-text{
-      font-size: 1.7rem;
+      font-size: 1.6rem;
     }
   }
 
@@ -205,8 +205,11 @@
   }
   .profile-icons{
     display: flex;
-    max-height: 20px;
+    max-height: 2rem;
     padding: 1rem;
+  }
+  .profile-icons > img{
+    height: 2.5rem;
   }
   .profile-icons > img:hover{
     transform: scale(120%);
